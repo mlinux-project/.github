@@ -1,2 +1,2 @@
-![MLinux](../images/mlinux.svg)
+![MLinux](https://raw.githubusercontent.com/mlinux-project/.github/main/images/mlinux.svg)
 
